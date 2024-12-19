@@ -41,7 +41,7 @@ The project uses:
 - **Visualization:** A bar chart displaying state-wise representation.
 <img width="802" alt="Screen Shot 2024-12-18 at 10 21 50 PM" src="https://github.com/user-attachments/assets/63ac5885-b816-45d6-a598-c783d4bf000a" />
 
-
+The goal of this project is to analyze political data to understand historical and current trends in U.S. congressional representation, financial contributions, and ideological patterns. The project addresses this by integrating data from multiple sources, including APIs and historical datasets, while leveraging object-oriented programming (OOP) principles to ensure a structured and reusable codebase.
 ---
 
 ## Installation
