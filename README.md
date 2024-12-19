@@ -37,6 +37,8 @@ _Image Placeholder: Add generated image of nominate dimensional scatter plot._
 ### 3. Geographic Distribution
 - **Description:** Highlights the number of congressional members from each state.
 - **Visualization:** A bar chart displaying state-wise representation.
+<img width="802" alt="Screen Shot 2024-12-18 at 10 21 50 PM" src="https://github.com/user-attachments/assets/63ac5885-b816-45d6-a598-c783d4bf000a" />
+
 
 _Image Placeholder: Add generated image of geographic distribution bar chart._
 
