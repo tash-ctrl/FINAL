@@ -92,30 +92,6 @@ python main_contribution.py
 - Fetches contribution data from the Contribution API.
 - Visualizes financial trends among politicians.
 
----
-
-## Video Presentation Structure
-
-### Introduction (30 seconds)
-1. Introduce the project and its purpose.
-2. Mention the tools, APIs, and datasets used.
-3. Highlight the modular structure of the code.
-
-### Code Walkthrough (1 minute)
-1. Show the folder structure:
-   - `main_oop.py`: OOP-based ProPublica API analysis.
-   - `analysis.ipynb`: CSV-based analysis.
-   - `main_contribution.py`: Contribution API analysis.
-   - `src/`: Contains all helper modules (e.g., `api_handler.py`, `visualizer.py`).
-2. Explain the purpose of each file briefly.
-3. Highlight OOP principles in `politician.py` and `investment_tracker.py`.
-
-### Demonstration (30 seconds)
-1. Run each branch:
-   - OOP: Run `main_oop.py` and show output.
-   - CSV: Open `analysis.ipynb` and display visualizations.
-   - Contribution API: Run `main_contribution.py` and show output.
-2. Highlight key visualizations and insights.
 
 ---
 
